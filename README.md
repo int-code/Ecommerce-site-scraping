@@ -1,2 +1,9 @@
 # Ecommerce-site-scraping
-A scrapper to scrap an e-commerce site(https://in.seamsfriendly.com/) to get all listings of shorts
+A scrapper to scrap an e-commerce site ([seamsfriendly.com](https://in.seamsfriendly.com/)) to get all listings of shorts
+
+The output files (in json and csv formats) include:
+- Title of product
+- Description_1
+- Description_2
+- Price
+- List of image urls of all available pictures
