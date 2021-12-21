@@ -7,3 +7,8 @@ The output files (in json and csv formats) include:
 - Description_2
 - Price
 - List of image urls of all available pictures
+
+To scrape:
+```
+scrapy crawl shorts -O filename.extension
+```
