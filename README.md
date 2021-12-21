@@ -1,5 +1,5 @@
 # Ecommerce-site-scraping
-A scrapper to scrap an e-commerce site ([seamsfriendly.com](https://in.seamsfriendly.com/)) to get all listings of shorts
+A scrapper made using Scrapy in python to scrap an e-commerce site ([seamsfriendly.com](https://in.seamsfriendly.com/)) to get all listings of shorts
 
 The output files (in json and csv formats) include:
 - Title of product
